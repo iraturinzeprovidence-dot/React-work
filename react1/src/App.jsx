@@ -2,7 +2,7 @@ import React from "react";
 
 function App() {
 
-  const studentName = "Josue";
+  const studentName = "Providence";
   const courseName = "Frontend Development";
   const year= 2026;
   const changeText = () => {
